@@ -1,4 +1,3 @@
-//Author - dheeraj.kumar.exe@gmail.com
 
 #ifndef VARIADIC_UTILITIES_H_INCLUDED
 #define VARIADIC_UTILITIES_H_INCLUDED
